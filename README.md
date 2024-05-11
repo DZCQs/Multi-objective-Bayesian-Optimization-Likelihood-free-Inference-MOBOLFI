@@ -4,6 +4,6 @@ We provide a way of implementing Multi-objective Bayesian Optimization Likelihoo
 
 
 In progress:
-Uploading all paper examples codes
-Uploading function codes
-Write a tutorial of using the function
+Uploading all paper examples codes, \\
+Uploading function codes, \\
+Write a tutorial of using the function \\
