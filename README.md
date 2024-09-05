@@ -3,7 +3,7 @@
 MOBOLFI is an extension of [BOLFI](https://github.com/elfi-dev/notebooks/blob/master/BOLFI.ipynb) that optimizes multiple training objectives in training a multi-variate surrogate. While sharing the sample efficiency from BOLFI, MOBOLFI exhibits approximate posterior conditional on different data sources, indicating potential model mis-specification caused by conflict information.
 
 ## Examples
-Three examples comprise of the code are used in our [publication](https://arxiv.org/abs/2409.01735). To reproduce the experiments yourself, follow the .ipynb notebooks with detail codes, comments for direction and generated figures. 
+Three examples comprise of the code are used in our [publication](https://arxiv.org/abs/2409.01735). To reproduce the experiments yourself, follow the .ipynb notebooks with detail codes comments for direction. Trained models (.sav), generated figures (.pdf/.png), intermediate results, training data and mcmc samples (.txt) are left in file folders.
 
 
 
