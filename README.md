@@ -28,6 +28,6 @@ If you have any question regarding this paper, feel free the email me:
 * `e1039688@u.nus.edu` -- David Chen
 
 
-
-[^1] Schmitt, Marvin, Stefan T. Radev, and Paul-Christian Bürkner. "Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference." arXiv preprint arXiv:2311.10671 (2023).
-[^2] Gutmann, Michael U., and Jukka Corander. "Bayesian optimization for likelihood-free inference of simulator-based statistical models." Journal of Machine Learning Research 17.125 (2016): 1-47.
+##
+* [^1] Schmitt, Marvin, Stefan T. Radev, and Paul-Christian Bürkner. "Fuse It or Lose It: Deep Fusion for Multimodal Simulation-Based Inference." arXiv preprint arXiv:2311.10671 (2023).
+* [^2] Gutmann, Michael U., and Jukka Corander. "Bayesian optimization for likelihood-free inference of simulator-based statistical models." Journal of Machine Learning Research 17.125 (2016): 1-47.
