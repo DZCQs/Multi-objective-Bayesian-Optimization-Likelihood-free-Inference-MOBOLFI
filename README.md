@@ -24,7 +24,7 @@ Just download the .ipynb notebooks (and .csv data if needed) and run. After gett
 
 
 ## Contact with author
-If you have any question regarding this paper, feel free the email me:
+If you have any question regarding this paper, feel free to email me:
 * `e1039688@u.nus.edu` -- David Chen
 
 
